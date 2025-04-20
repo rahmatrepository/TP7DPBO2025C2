@@ -1,4 +1,4 @@
-# Tugas Praktikum 8 DPBO c2
+# Tugas Praktikum 7 DPBO C2
 
 ## Janji
 Saya Rahmat taufik dengan NIM 2300414 mengerjakan soal TP8 dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
