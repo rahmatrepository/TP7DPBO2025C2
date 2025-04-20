@@ -53,4 +53,6 @@ flowchart TD
 - Navigasi, tabel data, form tambah/edit, tombol aksi, alert feedback
 
 ## Screenshot Antarmuka
-![Screenshot](https://github.com/user-attachments/assets/9965f3ca-3bdc-4fc3-9f01-a1a249ccd59c)
+<video src="https://github.com/user-attachments/assets/9965f3ca-3bdc-4fc3-9f01-a1a249ccd59c" controls width="600">
+Your browser does not support the video tag.
+</video>
